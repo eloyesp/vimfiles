@@ -1,0 +1,3 @@
+
+" Default theme
+:colorscheme vividchalk 
