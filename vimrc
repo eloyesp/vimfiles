@@ -13,6 +13,7 @@ set expandtab
 set shiftwidth=2
 set softtabstop=2
 set scrolloff=3
+set showbreak=++\  
 
 " Default theme
 colorscheme vividchalk
