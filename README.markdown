@@ -5,6 +5,17 @@ The objetive is to have vim running as expected right away.
 
 It should enhance support for Ruby development as I need.
 
+Instalation
+---
+
+Clone the repo as your `.vim` directory with the `--submodules` and make links for
+the files vimrc and gvimrc.
+
+    $ cd ~
+    $ git clone --recursive eloyesp/vimfiles .vim
+    $ ln -s .vim/vimrc ~/.vimrc
+    $ ln -s .vim/gvimrc ~/.gvimrc
+
 Rules
 ---
 
