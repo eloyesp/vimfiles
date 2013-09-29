@@ -31,3 +31,21 @@
 [submodule "bundle/slim"]
 	path = bundle/slim
 	url = git://github.com/slim-template/vim-slim.git
+[submodule "bundle/obsession"]
+	path = bundle/obsession
+	url = git@github.com:tpope/vim-obsession.git
+[submodule "bundle/camelcasemotion"]
+	path = bundle/camelcasemotion
+	url = git@github.com:vim-scripts/camelcasemotion.git
+[submodule "bundle/pandoc"]
+	path = bundle/pandoc
+	url = git@github.com:vim-pandoc/vim-pandoc.git
+[submodule "bundle/rake"]
+	path = bundle/rake
+	url = git@github.com:tpope/vim-rake.git
+[submodule "bundle/sensible"]
+	path = bundle/sensible
+	url = git@github.com:tpope/vim-sensible.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = git@github.com:godlygeek/tabular.git
