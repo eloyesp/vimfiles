@@ -28,10 +28,9 @@ set showbreak=++\
 syntax enable
 
 " Default theme
-colorscheme vividchalk
-" set background=dark
-" colorscheme solarized
-" call togglebg#map("<F6>")
+set background=dark
+colorscheme solarized
+call togglebg#map("<F6>")
 
 filetype plugin indent on
 
