@@ -43,3 +43,6 @@ if exists(":Tabularize")
   nmap <Leader>a> :Tabularize /=><CR>
   vmap <Leader>a> :Tabularize /=><CR>
 endif
+
+" random mappings
+noremap Y y$
