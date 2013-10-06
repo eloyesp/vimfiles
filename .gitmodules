@@ -61,3 +61,6 @@
 [submodule "bundle/eunuch"]
 	path = bundle/eunuch
 	url = git@github.com:tpope/vim-eunuch.git
+[submodule "bundle/git"]
+	path = bundle/git
+	url = git@github.com:tpope/vim-git.git
