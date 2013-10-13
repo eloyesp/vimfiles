@@ -67,3 +67,9 @@
 [submodule "bundle/scriptease"]
 	path = bundle/scriptease
 	url = git@github.com:tpope/vim-scriptease.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = git@github.com:kien/ctrlp.vim.git
+[submodule "bundle/rdoc"]
+	path = bundle/rdoc
+	url = git@github.com:depuracao/vim-rdoc.git
