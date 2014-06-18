@@ -4,7 +4,6 @@ let maplocalleader = '\'
 " configure markdown
 if has('python')
   let g:pandoc_use_hard_wraps = 1
-  let g:pandoc_auto_format = 1
   let g:pandoc_no_empty_implicits = 1
 endif
 
